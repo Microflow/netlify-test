@@ -15,3 +15,9 @@ General steps:
 - Configure your DNS provider to point the domain at the Netlify servers (if the domain registered through a third party). Domains registered during the custom domain flow do not require additional DNS configuration.
 
 - Test that your site is accessible via the custom domain. There may be a delay while DNS changes propagate.
+
+## JAM stack benefits
+
+https://jamstack.org/?utm_campaign=New+user+onboarding&utm_content=Welcome&utm_medium=email_action&utm_source=customer.io
+
+
