@@ -16,8 +16,8 @@ General steps:
 
 - Test that your site is accessible via the custom domain. There may be a delay while DNS changes propagate.
 
-## JAM stack benefits
+## [JAM stack benefits](https://jamstack.org/?utm_campaign=New+user+onboarding&utm_content=Welcome&utm_medium=email_action&utm_source=customer.io)
 
-https://jamstack.org/?utm_campaign=New+user+onboarding&utm_content=Welcome&utm_medium=email_action&utm_source=customer.io
+
 
 
