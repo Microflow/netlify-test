@@ -18,6 +18,10 @@ General steps:
 
 ## [JAM stack benefits](https://jamstack.org/?utm_campaign=New+user+onboarding&utm_content=Welcome&utm_medium=email_action&utm_source=customer.io)
 
+https://medium.com/fundscornertech/how-to-host-domain-to-netlify-site-for-free-step-by-step-guide-45d0c2102db3
+
+
+
 
 
 
